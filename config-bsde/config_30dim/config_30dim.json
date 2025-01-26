@@ -1,0 +1,41 @@
+{
+  "neural_network_parameters": {
+    "LAMBDA": 0.5,
+    "HOURS": 17,
+    "PRECISION": 5,
+    "TOTAL_TIME": 204,
+    "DIM": 30,
+    "NUM_TIME_INTERVAL": 3060,
+    "PRINT_INTERVAL": 100,
+    "NUM_ITERATIONS": 8000,
+    "NUM_NEURONS": 100,
+    "COVAR_MULTIPLIER": 1,
+    "BATCH_SIZE": 256,
+    "VALID_SIZE": 4096,
+    "LEARNING_RATES": [1e-2, 1e-3, 5e-4, 1e-4, 5e-5],
+    "DECAY_STEPS":[3750, 5500, 6500, 7500]
+  },
+  "system_parameters": {
+    "MU_FILE": "mu_hourly_30dim.csv",
+    "THETA_FILE": "theta_hourly_30dim.csv",
+    "COST_FILE": "cost_30dim.csv",
+    "LAMBD_FILE": "lambd_matrix_hourly_30dim.csv",
+    "ZETA_FILE": "zeta_matrix_hourly_30dim.csv",
+    "OVERTIME_COST": 2.12,
+    "POLICY": "minimal"
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

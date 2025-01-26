@@ -1,0 +1,6 @@
+[submodule "torchbsde"]
+	path = torchbsde
+	url = https://github.com/steve-shao/TorchBSDE-Package.git
+[submodule "torchsimulator"]
+	path = torchsimulator
+	url = https://github.com/steve-shao/TorchSimulator.git

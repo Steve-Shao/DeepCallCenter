@@ -8,9 +8,11 @@
 env/
 venv/
 __pycache__/
+archive/
 output/
 build/
 logs/
 dist/
 tests/*/
+results/*/
 !tests/example/
