@@ -1,1 +1,0 @@
-clang++ -std=c++11 -I /opt/homebrew/opt/libomp/include -L /opt/homebrew/opt/libomp/lib -Xpreprocessor -fopenmp -lomp test.cpp -o test
