@@ -1,7 +1,7 @@
 # DeepCallCenter
 
 This project is an implementation of the paper:
-- [Dynamic Scheduling of a Multiclass Queue in the Halfin-Whitt Regime: A Computational Approach for High-Dimensional Problems](https://arxiv.org/abs/2311.08818), 
+- [Dynamic Scheduling of a Multiclass Queue in the Halfin-Whitt Regime: A Computational Approach for High-Dimensional Problems](https://arxiv.org/abs/2311.18128), 
 
 authored by [Baris Ata](https://www.chicagobooth.edu/faculty/directory/a/baris-ata) and [Ebru Kasilarlar](https://ekasikaralar.github.io/Ebru-Kasikaralar/).
 
